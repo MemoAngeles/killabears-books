@@ -55,6 +55,8 @@ When adding new lore for books, **update the master lore repository first**, the
 
 ```
 /Books
+├── .claude/agents/  # Custom AI agents for book writing
+│   └── scribbles-book-writer.md  # Middle-grade humor expert
 ├── Book1/           # First book in the series
 │   ├── chapters/    # Individual chapter files
 │   ├── outline.md   # Book outline and structure
@@ -64,6 +66,20 @@ When adding new lore for books, **update the master lore repository first**, the
 ├── Artwork/         # Cover art and illustrations
 └── Reference/       # Source materials and research
 ```
+
+## Custom Agents
+
+### Scribbles - Book Writing Expert
+**File:** `.claude/agents/scribbles-book-writer.md`
+
+A bestselling middle-grade author persona with expertise in:
+- Writing for ages 8-12 with heavy illustration
+- Humor techniques (Jeff Kinney/Dav Pilkey style)
+- Page-turner pacing with cliffhanger chapters
+- Making dark fantasy accessible and funny
+- Marking illustration moments in the text
+
+**Invoke when:** Writing chapters, punching up humor, outlining story arcs, creating character voices.
 
 ## Writing Guidelines
 
