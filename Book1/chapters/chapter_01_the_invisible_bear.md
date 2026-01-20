@@ -14,7 +14,7 @@ And today, like every other day, I was completely, utterly, magnificently... ign
 
 ---
 
-[ILLUSTRATION: Mops mopping a gleaming floor while a parade of important-looking bears in suits stride past, briefcases swinging, not a single one looking at him. His mop bucket "Betsy" has a face drawn on it.]
+[ILLUSTRATION: Mops mopping a gleaming floor while a parade of important-looking bears in suits stride past, briefcases swinging, not a single one looking at him.]
 
 ---
 
@@ -54,45 +54,95 @@ I'm pretty sure he thinks the floors clean themselves.
 
 ---
 
+"Excuse me! Coming through! Hot chemicals, very dangerous, VERY hot!"
+
+I pushed my cleaning cart through a crowd of executives who didn't even glance up from their tablets. The cart was loaded with bottles of cleaning solutions, each one carefully labeled in my own handwriting:
+
+**FLOOR POLISH** - Safe
+**WINDOW CLEANER** - Safe
+**INDUSTRIAL DEGREASER** - Keep away from skin
+**AMMONIA SOLUTION** - DO NOT MIX WITH BLEACH (seriously, don't)
+**MYSTERY BOTTLE #7** - Found this in Sub-Level 3. No idea what it is. Smells like burnt toast and regret.
+
+---
+
+[ILLUSTRATION: Close-up of Mops's cleaning cart. Bottles are meticulously organized and labeled with handwritten warnings. One bottle glows faintly green. Sticky notes cover half the cart with reminders like "DON'T FORGET GLOVES" and "SUPERVISOR GRINDSTONE = AVOID."]
+
+---
+
+Here's a fun fact about cleaning chemicals: most of them want to kill you.
+
+Not in a dramatic way—more in a "breathe the wrong fumes for ten minutes and your lungs file a complaint" kind of way. After twelve years on this job, I've learned exactly which chemicals can be mixed (very few), which ones CANNOT be mixed under any circumstances (most of them), and which ones create a really impressive smoke cloud if you "accidentally" combine them near a supervisor who's been yelling at you.
+
+Not that I would ever do that.
+
+More than twice.
+
+---
+
+The supply closet on Sub-Level 3 is my home away from home.
+
+I know that sounds sad. It IS sad. But here's the thing: nobody else ever comes here. It's just me, the cleaning supplies, and the gentle hum of pipes doing pipe things.
+
+I've organized every shelf: by color, then by size, then by "likelihood to explode if mixed incorrectly." That third category is surprisingly large. I've got it mapped out on the wall—a whole chart showing what happens if you combine different chemicals.
+
+Most results are listed as "Bad." A few are "Very Bad." One combination just says "RUN."
+
+---
+
+[ILLUSTRATION: The supply closet. Immaculately organized shelves. On the wall, a hand-drawn chart titled "CHEMICAL COMBINATIONS" with most boxes marked in red. One box is circled multiple times with the word "RUN" and a crude drawing of a bear fleeing an explosion.]
+
+---
+
+I was just finishing my mid-morning floor inspection (code for "standing very still and hoping no one gives me more work") when my pocket buzzed.
+
 "Murphy."
+
+"GAH—!"
 
 I jumped so hard my mop clattered to the floor.
 
-"WHAT—who—where—"
+"What—who—where—"
 
-"It's me, Murphy. Calm down. Your heart rate suggests imminent cardiac event."
+"It's me, Murphy. Your roommate. The one you've lived with for six years. Please calm down. Your heart rate suggests imminent cardiac event."
 
-The voice came from my jacket pocket. Specifically, from the battered, dented, slightly smoking alarm clock wedged between a spare sponge and half a sandwich from three days ago.
+I pressed a paw to my chest, breathing hard. "Tachyon. We've talked about this. You can't just START TALKING when I think I'm alone."
 
-"Tachyon," I groaned, pressing a paw to my chest. "We've talked about this. You can't just START TALKING when I think I'm alone."
+"You are alone. You are *always* alone at work. This is statistically concerning."
 
-"You are alone," Tachyon replied. "You are always alone. This is statistically concerning."
-
-"Thanks. That's super helpful."
+"Thanks. Super helpful."
 
 "I aim to assist."
 
 ---
 
-[ILLUSTRATION: Close-up of Mops's jacket pocket, stuffed with random cleaning supplies. In the middle, a beat-up alarm clock with a cracked screen displays a tiny glowing smiley face. Wires poke out at odd angles.]
+Tachyon has been my roommate for six years.
 
----
+Well, "roommate" might be a strong word. He's an alarm clock. But he's a *talking* alarm clock, which means he counts as a person, and also means I can claim I don't live alone when people ask.
 
-Tachyon has been my alarm clock for six years. For the first five years and eleven months, he just beeped at 6 AM like a normal alarm clock. Annoying, sure, but normal.
+(Nobody asks. Nobody talks to me. But it's nice to have the excuse ready.)
 
-Then one morning, he beeped at 6 AM and added: "You have seventeen minutes to reach work before Supervisor Grindstone begins his patrol. I suggest the back entrance. Also, you're out of coffee and your left shoe has a hole."
+For the first five years and eleven months, Tachyon just beeped at 6 AM like a normal alarm clock. Annoying, sure, but normal. We shared a tiny apartment: him on the nightstand, me on the bed that folds out of the wall.
+
+Then one morning, he beeped at 6 AM and added: "You have seventeen minutes to reach work before Supervisor Grindstone begins his patrol. I suggest the back entrance through the ventilation access on Sub-Level 2. Also, you're out of coffee and your left shoe has a hole."
 
 I screamed.
 
 Then I followed his advice.
 
-I made it to work with four minutes to spare, and my left shoe *did* have a hole.
+I made it to work with four minutes to spare, and my left shoe *did* have a hole. And I DID know about that ventilation access—but how did HE?
 
 Ever since then, Tachyon has been... helpful. In a creepy, all-knowing, slightly judgmental sort of way.
 
-"Your mopping pattern is inefficient," Tachyon said now. "If you adjusted your stroke angle by seven degrees, you would complete this hallway 3.2 minutes faster."
+---
 
-"Thanks," I muttered. "I'll file that under 'Things That Would Make My Life Better But Also Make Me Feel Like A Failure.'"
+[ILLUSTRATION: A tiny apartment. Bed that folds from the wall. Hot plate. Single window showing identical buildings. On the nightstand: Tachyon the alarm clock, battered and dented, with a cracked screen displaying a tiny glowing face. The apartment is small but clean—Mops's work, obviously.]
+
+---
+
+"Your mopping pattern is inefficient," Tachyon said now, his voice slightly tinny through my jacket pocket. "If you adjusted your stroke angle by seven degrees, you would complete this hallway 3.2 minutes faster."
+
+"Thanks. I'll file that under 'Things That Would Make My Life Better But Also Make Me Feel Like A Failure.'"
 
 "I have created that file. It is very large."
 
@@ -102,29 +152,42 @@ Ever since then, Tachyon has been... helpful. In a creepy, all-knowing, slightly
 
 "I liked you better when you just beeped."
 
+"Noted. I will not adjust my behavior accordingly."
+
 ---
 
 Here's my daily routine:
 
 5:55 AM — Tachyon wakes me up with an increasingly detailed summary of everything that could go wrong today.
 
+5:57 AM — I tell him I don't want to know.
+
+5:58 AM — He tells me anyway.
+
 6:30 AM — Arrive at Bearington Tower through the back entrance (front entrance is for Important Bears).
 
 6:31 AM — Begin mopping Sub-Level 3.
 
-6:32 AM — Talk to Betsy (my mop bucket). She's a good listener.
+6:32 AM — Wonder if anyone would notice if I just... didn't show up one day.
 
-7:00 AM — Wonder if anyone would notice if I just... didn't show up one day.
+6:33 AM — Remember that I need to eat food and food costs money and money comes from jobs.
 
-7:01 AM — Remember that I need to eat food and food costs money and money comes from jobs.
+6:34 AM — Place "Wet Floor" signs at strategic locations throughout the building.
 
-7:02 AM — Resume mopping.
+This last one is important. I've learned exactly where to place those signs to:
+- Slow down Supervisor Grindstone's patrol route
+- Create a clear path to the supply closet
+- "Accidentally" redirect annoying executives away from areas I'm working
 
-This continues until 6:00 PM, when I trudge home to my tiny apartment, eat something beige from a can, and fall asleep to the sound of Bearington's propaganda broadcasts playing on every screen in the city.
+It's not sabotage. It's *floor safety*.
 
 ---
 
-"Did you know," Tachyon said, interrupting my thrilling mop work, "that today is the 4,383rd day of Lord Bearington's glorious reign?"
+[ILLUSTRATION: A map of Sub-Level 3 covered in sticky notes showing "WET FLOOR" sign placements. Arrows indicate supervisor patrol routes being redirected. One note says "GRINDSTONE ALWAYS SLIPS HERE" with a smiley face.]
+
+---
+
+"Did you know," Tachyon said, interrupting my thrilling floor inspection, "that today is the 4,383rd day of Lord Bearington's glorious reign?"
 
 "Fascinating."
 
@@ -136,7 +199,7 @@ This continues until 6:00 PM, when I trudge home to my tiny apartment, eat somet
 
 I stopped mopping. "Tachyon, my stress levels have been elevated since I was born. That's just my personality now."
 
-"Technically," Tachyon said, "pessimism is not a personality. It is a defense mechanism against repeated disappointment."
+"Technically, pessimism is not a personality. It is a defense mechanism against repeated disappointment."
 
 "...Did you just psychoanalyze me?"
 
@@ -174,61 +237,19 @@ But sure. The countryside.
 
 ---
 
-"Murphy," Tachyon said.
+"Murphy."
 
 "Yeah?"
 
-"Your mop water has been cold for forty-seven minutes."
+"I am detecting an anomaly."
 
-I looked down at Betsy. The water inside was, indeed, a cloudy, lukewarm soup of floor grime.
-
-"Murphy."
-
-"What?"
-
-"The regulations state that mop water must be changed every thirty minutes to maintain sanitary—"
-
-"Tachyon, if you quote one more regulation at me, I'm going to leave you in a microwave."
-
-"Microwaves would not damage my core processing unit. However, I appreciate the creative threat. It suggests cognitive engagement."
-
-I squeezed my eyes shut. Deep breath. In through the nose. Out through the mouth.
-
-"Murphy? Your breathing pattern suggests attempted meditation. Studies show meditation is 73% more effective when not performed in a corporate hallway surrounded by the smell of industrial cleaner."
-
-"Tachyon?"
-
-"Yes, Murphy?"
-
-"I'm going to go change my mop water now."
-
-"Excellent decision. I will time you."
-
----
-
-The supply closet on Sub-Level 3 is my favorite place in Bearington Tower.
-
-I know that sounds sad. It IS sad. But here's the thing: nobody else ever comes here. It's just me, the cleaning supplies, and the gentle hum of pipes doing pipe things.
-
-Sometimes I eat lunch here. Sometimes I take naps here. Once, during a particularly bad day, I hid here for three hours and reorganized every shelf by color, then by size, then by "likelihood to explode if mixed with other chemicals."
-
-(That third category is surprisingly large. Don't mix bleach with ammonia. Trust me.)
-
-The closet smells like lemon disinfectant and broken dreams. It's perfect.
-
----
-
-[ILLUSTRATION: A cramped supply closet absolutely PACKED with cleaning supplies. Every shelf is meticulously organized. Mops sits on an overturned bucket, eating a sad sandwich, looking almost content. A poster on the wall shows Lord Bearington's face with "WORK HARD" written below it. Someone (Mops) has drawn a mustache on it.]
-
----
-
-"Murphy," Tachyon said as I refilled Betsy with fresh water. "I am detecting an anomaly."
-
-"What kind of anomaly?"
+I kept mopping. "What kind of anomaly?"
 
 "Uncertain. My sensors are registering increased security activity on Sub-Levels 7 through 12. Patrol routes have been altered. Communication frequencies are encrypted."
 
-I paused, water pitcher in hand. "So?"
+I paused. Sub-Levels 7 through 12? Those were DEEP. Restricted. I'd only cleaned down there once, during an emergency, and the whole time I'd felt like I was being watched.
+
+"So?"
 
 "So this deviation from standard protocol suggests something significant is occurring. Perhaps a VIP visit. Perhaps a security breach. Perhaps—"
 
@@ -242,27 +263,17 @@ Tachyon was quiet for a moment.
 
 ---
 
+[ILLUSTRATION: Tachyon's screen showing a schematic of Bearington Tower. Several sub-levels are highlighted in red with "ANOMALY DETECTED" flashing. Small icons show increased guard movements.]
+
+---
+
 I went back to mopping.
 
-That's what I do. That's what I've always done. Head down, floors clean, no opinions about anything happening above my pay grade. It's worked for twelve years.
+That's what I do. That's what I've always done. Head down, floors clean, no opinions about anything happening above—or below—my pay grade. It's worked for twelve years.
 
 Well. "Worked" might be a strong word.
 
 "Kept me alive" is more accurate.
-
-But as I dragged Betsy back down the hallway, Tachyon's words stuck in my brain like gum on a shoe.
-
-*Something significant is occurring.*
-
-Above me, somewhere in the gleaming upper floors of Bearington Tower, important bears were doing important things. Making decisions. Moving pieces around some board I'd never see.
-
-And me?
-
-I was mopping.
-
-Same as always.
-
-Invisible as always.
 
 ---
 
@@ -270,67 +281,49 @@ Later that night, I trudged home through streets lined with propaganda posters. 
 
 "Day 4,383," the speakers announced. "Another day of prosperity under our beloved leader!"
 
-I put my headphones in. Not that they played music—I couldn't afford music subscriptions—but they made people think I couldn't hear them. Another kind of invisibility.
+I knew every back alley in this city. Every shortcut. Every surveillance blind spot. After twelve years of walking home through these streets, I'd mapped them all in my head. Turn left here to avoid the camera on Fifth. Duck through that alley to skip the checkpoint on Main.
+
+Invisible at work. Invisible on the streets.
+
+Maybe that was my superpower.
+
+---
 
 My apartment was on the fourteenth floor of a building that had definitely been designed by someone who hated stairs. No elevator, of course. Those were for Important Bears.
 
-By the time I reached my door, my legs were screaming and Tachyon was helpfully counting my heartbeats out loud.
+By the time I reached my door, my legs were screaming.
 
-"Four hundred and twelve. Four hundred and thirteen. This is significantly elevated, Murphy. You should consider cardiovascular exercise."
+"Four hundred and twelve steps," Tachyon announced from my pocket. "Four hundred and thirteen. This is significantly elevated from yesterday."
 
-"I just climbed fourteen floors. What do you think that was?"
+"I took the scenic route."
 
-"Punishment for living choices you made in your twenties."
+"You mean you avoided the security patrol on floor seven."
 
-I couldn't even argue with that.
-
----
-
-[ILLUSTRATION: Mops's tiny apartment. A single room with a bed that folds out of the wall, a hot plate, and a window overlooking other identical buildings. The walls are bare except for a corkboard covered in sticky notes. On the bedside table sits Tachyon (the alarm clock), plugged into a charger. Mops is face-down on the bed, still in his work clothes.]
+"...Same thing."
 
 ---
 
-I lay on my bed, staring at the ceiling.
+[ILLUSTRATION: Mops entering his tiny apartment, exhausted. Tachyon sits on the nightstand, screen glowing softly. The window shows the city lights and more propaganda screens in the distance. On the wall: a corkboard covered in maps, patrol schedules, and notes about building layouts.]
 
-The ceiling stared back.
+---
 
-"Tachyon?"
+I plugged Tachyon into his charger and collapsed onto my bed.
 
-"Yes, Murphy?"
+"Murphy?"
 
-"Do you ever think about... more? Like, more than this?"
+"Mmph."
 
-"Please clarify 'more.'"
+"The anomaly on Sub-Levels 7 through 12 is still active. Security patterns remain altered."
 
-"I don't know. Something other than waking up, mopping, sleeping, repeat. Something that matters."
+"Not. My. Problem."
 
-Tachyon was quiet for a long time. When he spoke, his voice was softer than usual.
+"Additionally, I calculate a 67% probability that you will oversleep tomorrow if you do not set an alarm."
 
-"Murphy, you asked me once why I started talking."
+"That's literally your job."
 
-"You said you didn't know."
+"I am aware. I simply enjoy reminding you of your dependency on my services."
 
-"That was inaccurate. I have a hypothesis."
-
-I rolled onto my side, looking at the battered little alarm clock on my nightstand.
-
-"I believe," Tachyon continued, "that I began speaking because you needed someone to speak to. Your isolation was... concerning. Statistically, beings who talk to themselves exhibit declining mental stability. I intervened."
-
-"So you started talking to me... because you were worried about me?"
-
-"'Worried' implies emotional investment. I am a timing device. I do not experience emotion."
-
-"Sure."
-
-"However. If I *did* experience emotion. Hypothetically. I would be... glad. That you are not alone anymore."
-
-I smiled. It felt weird on my face, like a muscle I hadn't used in a while.
-
-"Thanks, Tachyon."
-
-"You are welcome. Now sleep. Your optimal wake time is in 6.7 hours, and your current trajectory suggests you will feel terrible regardless."
-
-"You're a real comfort, you know that?"
+Despite everything, I smiled. "You're a real comfort, you know that?"
 
 "I aim to assist."
 
@@ -350,36 +343,64 @@ Right?
 
 ---
 
-**[CHAPTER END - HOOK FOR NEXT CHAPTER]**
+"Murphy."
 
-*But the next morning, running late and taking the back entrance, I turned down a corridor I'd never noticed before. And what I saw there would change everything.*
+"What now?"
+
+"Set your alarm for thirty minutes earlier tomorrow."
+
+"Why?"
+
+"Because you will need to use the back entrance. The one through the old maintenance corridor on Sub-Level 2."
+
+"I always use the back entrance."
+
+"Yes. But tomorrow, I suggest you take the left corridor instead of the right."
+
+"Tachyon, what are you—"
+
+"Good night, Murphy. Sleep well. Tomorrow will be... interesting."
+
+His screen flickered off before I could ask what he meant.
+
+---
+
+**[CHAPTER END]**
+
+*The next morning, running thirty minutes early and taking Tachyon's weird advice, I turned left instead of right.*
+
+*And that's when everything changed.*
 
 ---
 
 ## Author Notes
 
-**Illustration Count**: 5 full illustrations suggested
-- Mops mopping while bears ignore him
-- Tachyon in Mops's pocket
-- Mops under propaganda screen
-- Supply closet sanctuary
-- Mops's tiny apartment
+**Illustration Count**: 8 illustrations
 
-**Chapter Length**: ~2,200 words (target: 1,500-2,500)
+1. Mops mopping while bears ignore him
+2. Mops's cleaning cart with labeled chemical bottles
+3. Supply closet with chemical combination chart
+4. Mops's tiny apartment with Tachyon on nightstand
+5. Wet Floor sign placement map (strategic)
+6. Propaganda screen with Bearington's face
+7. Tachyon's screen showing anomaly detection
+8. Mops entering apartment, wall covered in maps/notes
 
-**Scribbles Checklist**:
-- [x] First person voice
-- [x] Humor throughout
-- [x] Tachyon introduced as companion
-- [x] Bearington regime established (oppressive, surveillance, "disappearances")
-- [x] Mops's invisibility/nobody-notices-him theme
-- [x] Self-deprecating hero
-- [x] Cliffhanger ending
-- [x] Dad jokes and cleaning metaphors
-- [x] Illustration beats marked
+**Chapter Length**: ~2,100 words
+
+**Revisions Checklist**:
+- [x] Removed Betsy (mop bucket)
+- [x] Established Mops + Tachyon as roommates
+- [x] Foreshadowed chemical expertise (labeled bottles, combination chart)
+- [x] Foreshadowed infrastructure knowledge (knows every back route)
+- [x] Foreshadowed strategic thinking (Wet Floor sign placements)
+- [x] Foreshadowed surveillance evasion (knows camera blind spots)
+- [x] Tachyon hints at knowing something about Sub-Level anomaly
+- [x] Cliffhanger setup for Chapter 2
 
 **Seeds Planted**:
-- Sub-Level security anomaly (connects to Fomo being held there)
-- Back entrance route (how Mops will discover Fomo)
-- Tachyon's unusual awareness (hints at his deeper nature)
-- The concept of "disappearing"
+- Sub-Level 7-12 anomaly (where Fomo is being held)
+- Tachyon's mysterious knowledge (hints at his deeper nature)
+- Mops's mapping/planning skills (wall of notes)
+- The "back entrance" and "left corridor" (leads to discovery)
+- Disappearances under Bearington's regime
