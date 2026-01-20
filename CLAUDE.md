@@ -10,11 +10,46 @@ A series of books exploring the rich lore of the KillaBears universe, including:
 - The Primal Elements (Fire, Ice, Lightning, Nature, Void)
 - The various species and tribes of Ursus
 
-## World Reference
+## CANONICAL LORE SOURCE
 
-The lore is established in the Primal Kards website. Key source materials:
-- `/mnt/d/KillaBears/Websites/Primal Kards Site/primal-kards/src/app/lore/page.tsx` - Main lore content
-- `/mnt/d/KillaBears/Primal Kards Game/Godot 2/primal-kards-game 002/Lore/` - Additional lore documents
+**IMPORTANT:** All lore must reference and stay consistent with the master lore repository:
+
+```
+D:\KillaBears\Primal Kards Game\Godot 2\primal-kards-game 002\Lore\
+```
+
+This is the **single source of truth** for all KillaBears projects (games, websites, books, etc.).
+
+### Key Lore Documents
+
+| Document | Description |
+|----------|-------------|
+| `LORE_INDEX.md` | Master index of all lore documents |
+| `PRIMAL_KARDS_COMPLETE_LORE.md` | Complete lore overview |
+| `PK_Lore_7.md` | Detailed world lore |
+| `cosmology_vethara_world_weaver.md` | Creation myth and Vethara |
+| `tribes_of_ursus.md` | All tribes and peoples |
+| `creatures_of_ursus.md` | Creatures and species |
+| `thunderbirds_of_ursus.md` | Thunderbird lore |
+| `aliens_suzuika.md` | The Suzuika people |
+| `ursus_timeline.md` | Historical timeline |
+| `primal_lore_timeline.json` | Timeline data (JSON) |
+| `economics_of_ursus.md` | Trade and economy |
+| `travel_and_trade_of_ursus.md` | Geography and travel |
+| `fur_genetics_system.md` | Bear fur/element genetics |
+| `special_killabears.md` | Notable characters |
+| `mutant_generations.md` | Mutant bears |
+
+### Character Documents
+- `character_murphy_mops_grimsley.md`
+- `character_neil_vantablack.md`
+- `character_fomobit_oracle.md`
+- `character_scrubclaw.md`
+- `avatar_rainbow_king.md`
+
+### Updating Lore
+
+When adding new lore for books, **update the master lore repository first**, then reference it here. This ensures consistency across all projects.
 
 ## Directory Structure
 
