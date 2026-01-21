@@ -1,6 +1,7 @@
 # Book 1: TIMEFALL - Character Reference
 
 *Essential character details for writing chapters, compiled from canonical lore.*
+*Aligned with outline v3 (street ambush, betrayal mystery)*
 
 ---
 
@@ -24,7 +25,7 @@
 - Yellow maintenance jacket with mysterious stains, patches, and ungodly number of pockets
 - Black work pants with reinforced knees, permanent bleach spots
 - Black facemask (started for fume protection, kept for mystery)
-- Never seen without mop bucket "Betsy" (yes, he named it)
+- Cleaning cart with meticulously labeled chemical bottles
 - Hidden spray paint cans in colors not approved by management
 
 ### Personality for Middle-Grade Voice
@@ -67,9 +68,24 @@
 
 ### Quick Reference
 - **Original Form**: Battered alarm clock in Mops's apartment
-- **Converted Form**: KillaBit housed in disc-shaped projector drone
+- **Converted Form**: KillaBit housed in disc-shaped projector drone (after rebels convert him)
 - **Personality**: Sharp, impatient, time-obsessed, oddly philosophical
 - **Secret**: Design preserved for millennia by Order of Correction
+- **BETRAYAL (not revealed in Book 1)**: Working with Marshall to cause TimeFall
+
+### The Betrayal Mystery (Series Arc)
+**In Book 1, readers should sense something is "off" about Tachyon, but NOT know the truth.**
+
+Clues planted throughout Book 1:
+- Ch 1: Suggests "left corridor" (leads Mops to discover Fomo)
+- Ch 1: Whispers "Finally" when Mops agrees (blink and miss it)
+- Ch 2: Displays "INTERESTING" when Mops reports Fomo sighting
+- Ch 5: Asks very specific questions about timing and routes
+- Ch 7: Recognizes temporal displacement immediately
+- Ch 9: "This wasn't supposed to... I didn't calculate for..."
+- Ch 10: "I remember him. I remember THIS."
+
+**Writing Tachyon**: He should feel helpful and genuine. The betrayal clues should read as "quirky AI behavior" on first pass. Only on reread (after later books) will readers realize he was manipulating events.
 
 ### Dual Behavior Modes
 
@@ -107,16 +123,28 @@
 
 ### Quick Reference
 - **Role**: Key resistance figure, secretly imprisoned (publicly "killed")
-- **Status**: Alive in Cell Block Omega (Mops discovers this)
+- **Status**: Alive in Sub-Levels 7-12 (Mops sees him in Chapter 2)
 - **Creations**: KillaCubs, stasis chambers, Primal Kards, portal technology
-- **Location**: Sub-levels of Bearington facility
+- **Location**: Sub-levels of Bearington Tower
+- **Book 1 Fate**: NOT rescued—rebels ambushed before reaching him
 
-### Personality (for brief appearance in Book 1)
-- Brilliant scientist, revolutionary
-- Consciousness scattered across time through FomoBits
-- Genuinely cares about freedom and the bears he's created
+### Mrs. Fuddlesworth (Humanizing Detail)
+Dr. Fomo had a cat named Mrs. Fuddlesworth. He talked to her like a person.
 
-### Memorable Exchange with Mops
+**How to use in Book 1**:
+- Ch 2: Mops remembers hearing the scientist had a cat
+- Ch 4: Rebels fondly describe him: "He had this cat. Talked to it like it was a person. Total nerd. We loved him."
+- Visual: Photo in rebel hideout shows geeky Fomo holding a fluffy cat
+
+**Irony**: Mops thinks talking to a cat is "ridiculous"—while he talks to an alarm clock.
+
+### Personality (brief appearances only)
+- Brilliant but down-to-earth
+- Geeky, lovable, kind
+- The rebels genuinely loved him (not just respected)
+- His imprisonment is PERSONAL to them
+
+### Memorable Exchange with Mops (for future books)
 Dr. Fomo: "My portal technology could revolutionize society!"
 Mops: "Yeah, but can it clean up after itself?"
 Dr. Fomo: "...I hadn't considered that."

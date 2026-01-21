@@ -349,7 +349,7 @@ Right?
 
 "Set your alarm for thirty minutes earlier tomorrow."
 
-"Why?"
+I groaned into my pillow. "Why?"
 
 "Because you will need to use the back entrance. The one through the old maintenance corridor on Sub-Level 2."
 
@@ -357,11 +357,27 @@ Right?
 
 "Yes. But tomorrow, I suggest you take the left corridor instead of the right."
 
+I opened one eye. "Why?"
+
+"Because."
+
+"Because WHY?"
+
+Tachyon's screen flickered—and for just a moment, I could have sworn the little face on his display looked... different. Not his usual smug helpfulness. Something older. Something that knew things it shouldn't.
+
+"Just trust me, Murphy."
+
+That was new. Tachyon never said "trust me." He said "statistically advisable" and "my calculations suggest" and "you're being an idiot, but do what you want."
+
 "Tachyon, what are you—"
 
-"Good night, Murphy. Sleep well. Tomorrow will be... interesting."
+"Good night, Murphy. Sleep well."
 
-His screen flickered off before I could ask what he meant.
+His screen flickered off before I could ask what he meant. But in the darkness, I could have sworn I heard him whisper something else.
+
+Something that sounded like: "*Finally.*"
+
+I must have imagined it.
 
 ---
 
@@ -375,6 +391,8 @@ His screen flickered off before I could ask what he meant.
 
 ## Author Notes
 
+**Outline Version**: v3 (street ambush, betrayal mystery)
+
 **Illustration Count**: 8 illustrations
 
 1. Mops mopping while bears ignore him
@@ -386,21 +404,26 @@ His screen flickered off before I could ask what he meant.
 7. Tachyon's screen showing anomaly detection
 8. Mops entering apartment, wall covered in maps/notes
 
-**Chapter Length**: ~2,100 words
+**Chapter Length**: ~2,200 words
 
-**Revisions Checklist**:
-- [x] Removed Betsy (mop bucket)
-- [x] Established Mops + Tachyon as roommates
-- [x] Foreshadowed chemical expertise (labeled bottles, combination chart)
+**v3 Alignment Checklist**:
+- [x] Mops + Tachyon roommate dynamic established
+- [x] Foreshadowed chemical expertise (labeled bottles, combination chart, "RUN")
 - [x] Foreshadowed infrastructure knowledge (knows every back route)
 - [x] Foreshadowed strategic thinking (Wet Floor sign placements)
 - [x] Foreshadowed surveillance evasion (knows camera blind spots)
-- [x] Tachyon hints at knowing something about Sub-Level anomaly
+- [x] Tachyon detects Sub-Level anomaly (where Fomo is held)
+- [x] **BETRAYAL CLUE #1**: Tachyon suggests "left corridor" deliberately
+- [x] **BETRAYAL CLUE #2**: Tachyon whispers "Finally" (readers may catch on reread)
 - [x] Cliffhanger setup for Chapter 2
 
 **Seeds Planted**:
 - Sub-Level 7-12 anomaly (where Fomo is being held)
-- Tachyon's mysterious knowledge (hints at his deeper nature)
-- Mops's mapping/planning skills (wall of notes)
-- The "back entrance" and "left corridor" (leads to discovery)
+- Tachyon's mysterious knowledge (hints at deeper nature / betrayal)
+- Mops's mapping/planning skills (wall of notes—will use as spy in Ch 5)
+- The "left corridor" suggestion (Tachyon WANTS Mops to discover Fomo)
 - Disappearances under Bearington's regime
+- Tachyon's "Finally" whisper (first betrayal breadcrumb)
+
+**Betrayal Mystery Notes**:
+This chapter plants the first seeds that Tachyon is manipulating events. On first read, the "left corridor" feels like helpful advice. On reread (after Book 2+ reveals), readers will realize Tachyon deliberately led Mops to discover Fomo, setting the entire chain of events in motion.
