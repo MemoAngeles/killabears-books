@@ -1,0 +1,44 @@
+node_modules/
+.openclaw/
+*.jsonl
+.env
+*.env.*
+credentials*.json
+
+# Local workspace files - not for the campaign repo
+Book1/
+Book2/
+ColoringBook/
+Artwork/
+Reference/
+Worldbuilding/
+skills/
+.claude/
+AGENTS.md
+CLAUDE.md
+HEARTBEAT.md
+LORE.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
+IDENTITY.md
+BOOTSTRAP.md
+community_roster.md
+package.json
+package-lock.json
+teaser_preview.jpg
+
+# Memory - only keep roster
+memory/*.md
+memory/engagement-tracker.json
+memory/heartbeat-state.json
+memory/moltbook_intel.md
+memory/skills-analysis.md
+memory/telegram_export_summary.md
+
+# Keep only campaign data:
+# Characters/
+# memory/killabear_roster.json
+# X_CAMPAIGN_STORY_ARC.md
+# CAMPAIGN_THREADS.md

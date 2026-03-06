@@ -1,0 +1,9 @@
+# Ignore old drafts and published books
+/Book1/
+/Book2/
+/Old_Drafts/
+/Worldbuilding_Bible_Legacy.md
+
+# Ignore cover art images to save vision tokens
+*.jpg
+*.png
